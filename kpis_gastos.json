@@ -1,0 +1,14 @@
+{
+  "Diferencia_Gasto_Anual_Humano_IA_USD": 5036,
+  "Porcentaje_Puestos_IA_Mas_Barata": "100%",
+  "Eficiencia_Promedio_Humano_pct": 81.3,
+  "Eficiencia_Promedio_IA_pct": 96.3,
+  "Diferencia_Eficiencia_IA_vs_Humano_pct": 15,
+  "Tasa_Error_Promedio_Humano_pct": 3.8,
+  "Tasa_Error_Promedio_IA_pct": 0.8,
+  "Diferencia_Error_IA_vs_Humano_pct": -3,
+  "Costo_Hora_Humano_USD": 6.64,
+  "Costo_Hora_IA_USD": 0.82,
+  "Indice_Costo_Eficiencia_Humano": 172.21,
+  "Indice_Costo_Eficiencia_IA": 93.12
+}

@@ -1,0 +1,501 @@
+﻿ID_Registro,Puesto_Empleo,Tipo_Recurso,Nombre_O_Modelo,Costo_Inversion_Inicial_USD,Gasto_Mantenimiento_Operacion_Mensual_USD,Salario_O_Licencia_Mensual_USD,Gasto_Total_Anual_USD,Horas_Operativas_Mes,Costo_Por_Hora_USD,Nivel_Eficiencia_Pct,Tasa_Error_Pct,Estado_Implementacion
+REC-1001,Cajero,Empleado Real (Humano),Diego Martínez,371.07,97.41,866.98,11943.68,176,5.48,69.9,3.16,Activo / En Contrato
+REC-1002,Cajero,Empleado Real (Humano),Isabella González,392.83,145.03,823.15,12010.99,153,6.33,78.2,3.96,Activo / En Contrato
+REC-1003,Cajero,Empleado Real (Humano),Ana Pérez,396.28,145.44,815.43,11926.72,140,6.86,78.1,4.55,Activo / En Contrato
+REC-1004,Cajero,Empleado Real (Humano),Lucía Rodríguez,437.05,142.27,777.33,11472.29,167,5.51,83.5,3.87,Activo / En Contrato
+REC-1005,Cajero,Empleado Real (Humano),Valeria Díaz,398.69,101.02,995.39,13555.64,140,7.83,84.8,3.7,Activo / En Contrato
+REC-1006,Cajero,Empleado Real (Humano),Carlos Flores,478.58,119.6,755.02,10974.06,156,5.61,89.2,3.43,Activo / En Contrato
+REC-1007,Cajero,Empleado Real (Humano),Santiago Ruiz,464.21,119.58,837.78,11952.53,149,6.43,80.0,4.0,Activo / En Contrato
+REC-1008,Cajero,Empleado Real (Humano),David Romero,411.4,112.38,894.32,12491.79,142,7.09,79.3,2.75,Activo / En Contrato
+REC-1009,Cajero,Empleado Real (Humano),Santiago Díaz,470.86,100.11,868.86,12098.41,168,5.77,82.2,3.31,Activo / En Contrato
+REC-1010,Cajero,Empleado Real (Humano),Elena Álvarez,346.09,116.52,835.83,11774.33,171,5.57,84.6,4.98,Activo / En Contrato
+REC-1011,Cajero,Empleado Real (Humano),Santiago López,358.12,118.11,825.8,11685.02,143,6.6,88.3,2.95,Activo / En Contrato
+REC-1012,Cajero,Empleado Real (Humano),Sofia Cruz,363.38,103.71,831.11,11581.29,147,6.36,92.4,3.63,Activo / En Contrato
+REC-1013,Cajero,Empleado Real (Humano),Lucía Rodríguez,446.95,107.95,826.75,11663.29,164,5.7,87.7,3.64,Activo / En Contrato
+REC-1014,Cajero,Empleado Real (Humano),Diego Ruiz,418.97,99.55,784.93,11032.66,156,5.67,85.2,1.92,Activo / En Contrato
+REC-1015,Cajero,Empleado Real (Humano),Isabella Gómez,336.28,116.47,881.05,12306.55,173,5.77,70.9,4.93,Activo / En Contrato
+REC-1016,Cajero,Empleado Real (Humano),Mateo Vargas,290.74,127.6,953.03,13258.32,162,6.67,86.5,3.76,Activo / En Contrato
+REC-1017,Cajero,Empleado Real (Humano),Isabella Hernández,457.71,130.42,816.08,11815.71,128,7.39,74.3,3.08,Activo / En Contrato
+REC-1018,Cajero,Empleado Real (Humano),Luis Cruz,337.02,127.72,881.24,12444.56,156,6.47,85.8,0.47,Activo / En Contrato
+REC-1019,Cajero,Empleado Real (Humano),María Hernández,428.4,112.0,857.41,12061.35,156,6.21,78.6,5.54,Activo / En Contrato
+REC-1020,Cajero,Empleado Real (Humano),Mateo Sánchez,348.72,90.91,807.2,11126.09,166,5.41,85.4,3.65,Activo / En Contrato
+REC-1021,Cajero,Empleado Real (Humano),Valeria Sánchez,481.07,104.52,832.77,11728.57,140,6.69,80.8,3.26,Activo / En Contrato
+REC-1022,Cajero,Empleado Real (Humano),Gabriel Vargas,332.33,121.33,894.46,12521.84,163,6.23,77.9,4.67,Activo / En Contrato
+REC-1023,Cajero,Empleado Real (Humano),Daniela Pérez,347.55,115.88,854.75,11995.2,159,6.1,78.3,3.56,Activo / En Contrato
+REC-1024,Cajero,Empleado Real (Humano),María Hernández,451.26,122.53,795.57,11468.44,172,5.34,68.7,4.04,Activo / En Contrato
+REC-1025,Cajero,Empleado Real (Humano),Carlos Díaz,444.5,118.8,769.68,11106.28,155,5.73,80.3,2.48,Activo / En Contrato
+REC-1026,Cajero,Empleado Real (Humano),Mariana Díaz,513.32,106.02,881.4,12362.36,165,5.98,81.5,1.91,Activo / En Contrato
+REC-1027,Cajero,Empleado Real (Humano),Isabella Romero,362.43,119.02,816.59,11589.72,143,6.54,74.6,2.56,Activo / En Contrato
+REC-1028,Cajero,Empleado Real (Humano),Lucía González,412.95,140.21,1004.31,14147.2,156,7.34,78.1,3.4,Activo / En Contrato
+REC-1029,Cajero,Empleado Real (Humano),Santiago Martínez,368.06,155.99,708.41,10740.86,157,5.51,74.7,3.95,Activo / En Contrato
+REC-1030,Cajero,Empleado Real (Humano),María Hernández,449.66,133.43,861.09,12383.96,171,5.82,81.3,3.08,Activo / En Contrato
+REC-1031,Cajero,Empleado Real (Humano),María Pérez,494.73,104.24,862.89,12100.3,171,5.66,89.4,3.02,Activo / En Contrato
+REC-1032,Cajero,Empleado Real (Humano),Sofia Morales,292.71,100.92,844.16,11633.63,176,5.37,77.9,2.25,Activo / En Contrato
+REC-1033,Cajero,Empleado Real (Humano),Elena Sánchez,452.39,121.99,873.83,12402.21,159,6.26,78.6,4.17,Activo / En Contrato
+REC-1034,Cajero,Empleado Real (Humano),Ana González,429.7,117.08,911.95,12778.11,158,6.51,83.5,3.72,Activo / En Contrato
+REC-1035,Cajero,Empleado Real (Humano),Isabella Martínez,406.31,93.7,868.63,11954.22,152,6.33,74.9,2.64,Activo / En Contrato
+REC-1036,Cajero,Empleado Real (Humano),Camila Reyes,416.95,106.42,930.56,12860.78,160,6.48,77.2,2.84,Activo / En Contrato
+REC-1037,Cajero,Empleado Real (Humano),David Mendoza,459.29,111.98,849.41,11996.04,145,6.63,85.7,3.24,Activo / En Contrato
+REC-1038,Cajero,Empleado Real (Humano),Lucía Díaz,421.4,125.44,890.01,12606.76,160,6.35,79.2,3.47,Activo / En Contrato
+REC-1039,Cajero,Empleado Real (Humano),Santiago Romero,377.67,130.67,1005.35,14009.95,170,6.68,81.0,4.13,Activo / En Contrato
+REC-1040,Cajero,Empleado Real (Humano),Santiago Díaz,397.32,134.72,769.54,11248.51,169,5.35,78.9,2.19,Activo / En Contrato
+REC-1041,Cajero,Equipo Automatizado (Hardware/Robótica),FastPay Station Ultra (Unit #101),13129.59,392.93,0.0,7341.09,457,1.34,87.2,1.35,Desplegado / Producción
+REC-1042,Cajero,Equipo Automatizado (Hardware/Robótica),CashFlow Pro (Unit #102),13176.99,309.3,0.0,6347.06,486,1.09,98.6,1.56,Desplegado / Producción
+REC-1043,Cajero,Equipo Automatizado (Hardware/Robótica),ExpressCheckout AI-Pad (Unit #103),10006.38,363.9,0.0,6368.1,417,1.27,95.3,1.49,Desplegado / Producción
+REC-1044,Cajero,Equipo Automatizado (Hardware/Robótica),SecureCash Kiosk (Unit #104),10683.58,410.32,0.0,7060.55,503,1.17,93.1,1.27,Desplegado / Producción
+REC-1045,Cajero,Equipo Automatizado (Hardware/Robótica),Self-Checkout Kiosk X1 (Unit #105),9807.97,372.06,0.0,6426.34,474,1.13,95.4,1.36,Desplegado / Producción
+REC-1046,Cajero,Equipo Automatizado (Hardware/Robótica),ExpressCheckout AI-Pad (Unit #106),11259.7,368.71,0.0,6676.47,466,1.19,93.5,1.12,Desplegado / Producción
+REC-1047,Cajero,Equipo Automatizado (Hardware/Robótica),CashFlow Pro (Unit #107),13763.87,384.0,0.0,7360.82,419,1.46,95.3,1.61,Desplegado / Producción
+REC-1048,Cajero,Equipo Automatizado (Hardware/Robótica),FastPay Station Ultra (Unit #108),11804.33,373.5,0.0,6842.89,445,1.28,90.5,1.18,Desplegado / Producción
+REC-1049,Cajero,Equipo Automatizado (Hardware/Robótica),SmartPay 3000 (Unit #109),11758.43,354.51,0.0,6605.84,419,1.31,96.3,1.18,Desplegado / Producción
+REC-1050,Cajero,Equipo Automatizado (Hardware/Robótica),Self-Checkout Kiosk X1 (Unit #110),9832.42,342.73,0.0,6079.27,506,1.0,93.0,1.18,Desplegado / Producción
+REC-1051,Cajero,Equipo Automatizado (Hardware/Robótica),PayPoint Auto 50 (Unit #111),10852.1,233.01,0.0,4966.56,467,0.89,95.1,1.35,Desplegado / Producción
+REC-1052,Cajero,Equipo Automatizado (Hardware/Robótica),SmartPay 3000 (Unit #112),11087.66,328.36,0.0,6157.8,418,1.23,94.1,1.54,Desplegado / Producción
+REC-1053,Cajero,Equipo Automatizado (Hardware/Robótica),PayPoint Auto 50 (Unit #113),11949.47,358.99,0.0,6697.74,418,1.34,97.4,1.1,Desplegado / Producción
+REC-1054,Cajero,Equipo Automatizado (Hardware/Robótica),SmartPay 3000 (Unit #114),11717.55,317.91,0.0,6158.49,462,1.11,93.2,1.22,Desplegado / Producción
+REC-1055,Cajero,Equipo Automatizado (Hardware/Robótica),SmartPay 3000 (Unit #115),12385.89,309.2,0.0,6187.62,388,1.33,90.9,1.48,Desplegado / Producción
+REC-1056,Cajero,Equipo Automatizado (Hardware/Robótica),CashFlow Pro (Unit #116),11508.9,329.31,0.0,6253.52,470,1.11,92.0,1.22,Desplegado / Producción
+REC-1057,Cajero,Equipo Automatizado (Hardware/Robótica),SmartPay 3000 (Unit #117),11594.17,386.56,0.0,6957.61,524,1.11,93.5,0.91,Desplegado / Producción
+REC-1058,Cajero,Equipo Automatizado (Hardware/Robótica),ExpressCheckout AI-Pad (Unit #118),12671.59,346.93,0.0,6697.42,473,1.18,95.5,0.55,Desplegado / Producción
+REC-1059,Cajero,Equipo Automatizado (Hardware/Robótica),PayPoint Auto 50 (Unit #119),10181.6,384.54,0.0,6650.79,435,1.27,94.7,1.31,Desplegado / Producción
+REC-1060,Cajero,Equipo Automatizado (Hardware/Robótica),SecureCash Kiosk (Unit #120),10321.96,318.68,0.0,5888.55,405,1.21,96.5,1.69,Desplegado / Producción
+REC-1061,Cajero,Equipo Automatizado (Hardware/Robótica),SmartPay 3000 (Unit #121),12173.93,331.74,0.0,6415.61,443,1.21,93.7,1.59,Desplegado / Producción
+REC-1062,Cajero,Equipo Automatizado (Hardware/Robótica),ExpressCheckout AI-Pad (Unit #122),13244.36,345.07,0.0,6789.66,443,1.28,90.5,1.08,Desplegado / Producción
+REC-1063,Cajero,Equipo Automatizado (Hardware/Robótica),FastPay Station Ultra (Unit #123),12629.11,469.12,0.0,8155.21,450,1.51,92.6,0.99,Desplegado / Producción
+REC-1064,Cajero,Equipo Automatizado (Hardware/Robótica),FastPay Station Ultra (Unit #124),13729.7,342.21,0.0,6852.43,473,1.21,92.4,1.41,Desplegado / Producción
+REC-1065,Cajero,Equipo Automatizado (Hardware/Robótica),ExpressCheckout AI-Pad (Unit #125),13203.7,382.15,0.0,7226.5,471,1.28,95.4,0.7,Desplegado / Producción
+REC-1066,Cajero,Equipo Automatizado (Hardware/Robótica),Self-Checkout Kiosk X1 (Unit #126),10850.33,297.96,0.0,5745.59,411,1.16,91.4,1.83,Desplegado / Producción
+REC-1067,Cajero,Equipo Automatizado (Hardware/Robótica),Self-Checkout Kiosk X1 (Unit #127),13639.29,307.57,0.0,6418.73,455,1.18,91.8,1.43,Desplegado / Producción
+REC-1068,Cajero,Equipo Automatizado (Hardware/Robótica),ExpressCheckout AI-Pad (Unit #128),10818.21,315.57,0.0,5950.51,417,1.19,93.1,0.98,Desplegado / Producción
+REC-1069,Cajero,Equipo Automatizado (Hardware/Robótica),PayPoint Auto 50 (Unit #129),10936.64,411.24,0.0,7122.22,406,1.46,92.4,1.29,Desplegado / Producción
+REC-1070,Cajero,Equipo Automatizado (Hardware/Robótica),PayPoint Auto 50 (Unit #130),11263.91,391.44,0.0,6950.09,448,1.29,95.3,0.9,Desplegado / Producción
+REC-1071,Cajero,Inteligencia Artificial (Software/SaaS),SmartCount AI License #501,2060.11,99.55,227.86,5989.08,601,0.54,97.2,0.41,Fase Piloto / Licencia SaaS
+REC-1072,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #502,2302.62,63.43,237.24,5910.65,566,0.53,97.1,0.58,Fase Piloto / Licencia SaaS
+REC-1073,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #503,2623.85,45.2,207.2,5652.66,587,0.43,95.6,0.45,Fase Piloto / Licencia SaaS
+REC-1074,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #504,2822.2,97.06,210.24,6509.77,614,0.5,96.0,0.54,Fase Piloto / Licencia SaaS
+REC-1075,Cajero,Inteligencia Artificial (Software/SaaS),PayPredict Agent License #505,2720.55,94.31,202.65,6284.04,595,0.5,98.0,0.78,Fase Piloto / Licencia SaaS
+REC-1076,Cajero,Inteligencia Artificial (Software/SaaS),ScanToGo Software License #506,1798.65,80.86,179.8,4926.48,568,0.46,99.4,0.5,Fase Piloto / Licencia SaaS
+REC-1077,Cajero,Inteligencia Artificial (Software/SaaS),AutoRegister AI License #507,1525.75,81.39,196.63,4861.95,570,0.49,95.7,0.59,Fase Piloto / Licencia SaaS
+REC-1078,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #508,1973.79,70.1,213.03,5371.34,592,0.48,95.7,0.69,Fase Piloto / Licencia SaaS
+REC-1079,Cajero,Inteligencia Artificial (Software/SaaS),PayPredict Agent License #509,2621.6,67.76,210.06,5955.46,594,0.47,96.4,0.55,Fase Piloto / Licencia SaaS
+REC-1080,Cajero,Inteligencia Artificial (Software/SaaS),PayPredict Agent License #510,3064.75,63.78,186.35,6066.27,634,0.39,96.8,0.4,Fase Piloto / Licencia SaaS
+REC-1081,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #511,3476.99,66.67,249.37,7269.43,628,0.5,98.9,0.3,Fase Piloto / Licencia SaaS
+REC-1082,Cajero,Inteligencia Artificial (Software/SaaS),AutoRegister AI License #512,2139.84,72.53,207.59,5501.3,563,0.5,98.9,0.54,Fase Piloto / Licencia SaaS
+REC-1083,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #513,2455.03,63.46,251.46,6234.06,575,0.55,96.5,0.52,Fase Piloto / Licencia SaaS
+REC-1084,Cajero,Inteligencia Artificial (Software/SaaS),AutoRegister AI License #514,2740.38,85.59,237.57,6618.33,557,0.58,97.5,0.61,Fase Piloto / Licencia SaaS
+REC-1085,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #515,2699.87,75.45,297.48,7175.08,607,0.61,94.5,0.6,Fase Piloto / Licencia SaaS
+REC-1086,Cajero,Inteligencia Artificial (Software/SaaS),ScanToGo Software License #516,2769.9,86.2,160.16,5726.24,575,0.43,96.3,0.46,Fase Piloto / Licencia SaaS
+REC-1087,Cajero,Inteligencia Artificial (Software/SaaS),SmartCount AI License #517,1524.16,78.52,172.38,4534.95,626,0.4,96.9,0.59,Fase Piloto / Licencia SaaS
+REC-1088,Cajero,Inteligencia Artificial (Software/SaaS),ScanToGo Software License #518,2903.99,78.92,216.16,6445.01,576,0.51,97.8,0.81,Fase Piloto / Licencia SaaS
+REC-1089,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #519,2684.28,92.22,180.37,5955.35,571,0.48,97.1,0.57,Fase Piloto / Licencia SaaS
+REC-1090,Cajero,Inteligencia Artificial (Software/SaaS),ScanToGo Software License #520,3013.28,97.6,187.43,6433.66,634,0.45,97.5,0.71,Fase Piloto / Licencia SaaS
+REC-1091,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #521,2532.95,95.97,212.99,6240.5,606,0.51,98.5,0.75,Fase Piloto / Licencia SaaS
+REC-1092,Cajero,Inteligencia Artificial (Software/SaaS),PayPredict Agent License #522,2512.13,67.28,196.8,5681.13,624,0.42,97.9,0.31,Fase Piloto / Licencia SaaS
+REC-1093,Cajero,Inteligencia Artificial (Software/SaaS),ScanToGo Software License #523,2578.69,93.21,182.61,5888.57,589,0.47,97.0,0.56,Fase Piloto / Licencia SaaS
+REC-1094,Cajero,Inteligencia Artificial (Software/SaaS),AutoRegister AI License #524,2830.2,70.26,222.64,6345.02,624,0.47,95.2,0.48,Fase Piloto / Licencia SaaS
+REC-1095,Cajero,Inteligencia Artificial (Software/SaaS),PayPredict Agent License #525,2899.23,83.18,196.36,6253.68,588,0.48,98.4,0.65,Fase Piloto / Licencia SaaS
+REC-1096,Cajero,Inteligencia Artificial (Software/SaaS),SmartCount AI License #526,2818.6,64.62,282.72,6986.64,605,0.57,97.0,0.6,Fase Piloto / Licencia SaaS
+REC-1097,Cajero,Inteligencia Artificial (Software/SaaS),SmartCount AI License #527,2480.9,76.01,206.63,5872.55,609,0.46,97.1,0.67,Fase Piloto / Licencia SaaS
+REC-1098,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #528,2143.88,78.21,221.08,5735.46,588,0.51,96.7,0.64,Fase Piloto / Licencia SaaS
+REC-1099,Cajero,Inteligencia Artificial (Software/SaaS),QuickPay AI Biometrics License #529,2234.06,78.21,200.37,5576.98,659,0.42,96.2,0.56,Fase Piloto / Licencia SaaS
+REC-1100,Cajero,Inteligencia Artificial (Software/SaaS),AutoRegister AI License #530,2542.81,94.31,236.03,6506.97,603,0.55,97.3,0.88,Fase Piloto / Licencia SaaS
+REC-1101,Guardia de seguridad,Empleado Real (Humano),Ignacio Gómez,570.49,133.86,898.46,12958.38,172,6.0,83.7,3.73,Activo / En Contrato
+REC-1102,Guardia de seguridad,Empleado Real (Humano),Miguel López,385.68,180.24,922.77,13621.86,192,5.74,81.8,3.58,Activo / En Contrato
+REC-1103,Guardia de seguridad,Empleado Real (Humano),Miguel Gómez,465.63,143.73,976.04,13902.89,182,6.15,76.4,5.61,Activo / En Contrato
+REC-1104,Guardia de seguridad,Empleado Real (Humano),Eduardo Gómez,368.77,146.83,976.01,13842.79,180,6.24,72.4,4.75,Activo / En Contrato
+REC-1105,Guardia de seguridad,Empleado Real (Humano),Alejandro Reyes,489.82,161.56,949.38,13821.01,199,5.58,89.9,5.72,Activo / En Contrato
+REC-1106,Guardia de seguridad,Empleado Real (Humano),Gustavo Rodríguez,514.2,130.75,1008.13,14180.82,178,6.4,89.8,3.66,Activo / En Contrato
+REC-1107,Guardia de seguridad,Empleado Real (Humano),Arturo Reyes,603.2,163.89,1120.69,16018.16,166,7.74,82.3,4.81,Activo / En Contrato
+REC-1108,Guardia de seguridad,Empleado Real (Humano),Mauricio Reyes,451.01,176.11,1031.9,14947.11,182,6.64,76.6,6.5,Activo / En Contrato
+REC-1109,Guardia de seguridad,Empleado Real (Humano),Héctor Álvarez,408.17,148.04,948.08,13561.56,192,5.71,86.4,3.18,Activo / En Contrato
+REC-1110,Guardia de seguridad,Empleado Real (Humano),Esteban Hernández,668.26,155.92,912.25,13486.27,189,5.65,82.5,4.25,Activo / En Contrato
+REC-1111,Guardia de seguridad,Empleado Real (Humano),Arturo Castillo,551.54,154.61,953.48,13848.7,183,6.06,81.2,4.95,Activo / En Contrato
+REC-1112,Guardia de seguridad,Empleado Real (Humano),Rafael Gómez,559.76,156.88,978.99,14190.18,199,5.71,73.5,3.63,Activo / En Contrato
+REC-1113,Guardia de seguridad,Empleado Real (Humano),Alejandro Flores,564.59,170.82,1034.15,15024.26,178,6.77,83.8,4.32,Activo / En Contrato
+REC-1114,Guardia de seguridad,Empleado Real (Humano),Oscar Hernández,476.23,221.43,933.84,14339.45,179,6.45,65.5,5.11,Activo / En Contrato
+REC-1115,Guardia de seguridad,Empleado Real (Humano),Adrián Reyes,494.05,120.1,848.78,12120.67,172,5.63,86.2,3.48,Activo / En Contrato
+REC-1116,Guardia de seguridad,Empleado Real (Humano),Mauricio Rodríguez,541.65,158.96,980.8,14218.8,167,6.82,90.7,3.65,Activo / En Contrato
+REC-1117,Guardia de seguridad,Empleado Real (Humano),Arturo López,492.83,172.03,821.06,12409.89,191,5.2,75.5,2.74,Activo / En Contrato
+REC-1118,Guardia de seguridad,Empleado Real (Humano),Roberto Ruiz,454.88,179.37,917.36,13615.69,147,7.46,79.1,0.98,Activo / En Contrato
+REC-1119,Guardia de seguridad,Empleado Real (Humano),Miguel Torres,654.03,162.82,855.76,12876.94,182,5.6,80.1,3.63,Activo / En Contrato
+REC-1120,Guardia de seguridad,Empleado Real (Humano),Rafael Álvarez,605.96,179.12,955.23,14218.17,193,5.88,68.1,2.83,Activo / En Contrato
+REC-1121,Guardia de seguridad,Empleado Real (Humano),Adrián Pérez,415.87,130.16,1036.84,14419.8,170,6.86,68.8,4.54,Activo / En Contrato
+REC-1122,Guardia de seguridad,Empleado Real (Humano),Raúl Álvarez,471.28,128.02,1012.33,14155.51,177,6.44,68.9,3.96,Activo / En Contrato
+REC-1123,Guardia de seguridad,Empleado Real (Humano),Enrique González,664.56,147.73,946.89,13800.01,175,6.25,81.7,3.23,Activo / En Contrato
+REC-1124,Guardia de seguridad,Empleado Real (Humano),Rodrigo Romero,482.5,157.88,963.23,13935.8,179,6.26,89.6,2.79,Activo / En Contrato
+REC-1125,Guardia de seguridad,Empleado Real (Humano),Ignacio Ruiz,563.14,182.59,850.91,12965.22,178,5.81,76.7,3.81,Activo / En Contrato
+REC-1126,Guardia de seguridad,Empleado Real (Humano),Raúl Ruiz,610.22,130.92,914.28,13152.61,189,5.53,76.6,3.57,Activo / En Contrato
+REC-1127,Guardia de seguridad,Empleado Real (Humano),Raúl Vargas,426.53,171.78,867.25,12894.92,192,5.41,77.1,5.08,Activo / En Contrato
+REC-1128,Guardia de seguridad,Empleado Real (Humano),Miguel Flores,469.05,125.54,890.2,12657.89,164,6.19,80.1,3.57,Activo / En Contrato
+REC-1129,Guardia de seguridad,Empleado Real (Humano),Gonzalo Martínez,447.1,153.8,951.64,13712.38,190,5.82,77.6,3.58,Activo / En Contrato
+REC-1130,Guardia de seguridad,Empleado Real (Humano),Raúl Ruiz,666.0,152.7,901.56,13317.06,179,5.89,77.4,2.33,Activo / En Contrato
+REC-1131,Guardia de seguridad,Empleado Real (Humano),Ignacio Morales,449.77,146.99,1003.26,14252.79,205,5.61,78.0,5.13,Activo / En Contrato
+REC-1132,Guardia de seguridad,Empleado Real (Humano),Rodrigo López,432.78,162.41,829.44,12334.98,178,5.57,80.6,3.24,Activo / En Contrato
+REC-1133,Guardia de seguridad,Empleado Real (Humano),Alejandro Flores,523.39,127.7,943.56,13378.51,186,5.76,72.9,4.2,Activo / En Contrato
+REC-1134,Guardia de seguridad,Empleado Real (Humano),Ignacio Martínez,448.22,131.01,911.64,12959.99,184,5.67,72.1,4.85,Activo / En Contrato
+REC-1135,Guardia de seguridad,Empleado Real (Humano),Ignacio Díaz,508.42,146.06,883.05,12857.75,150,6.86,83.4,5.71,Activo / En Contrato
+REC-1136,Guardia de seguridad,Empleado Real (Humano),Gustavo Castillo,523.35,151.42,974.08,14029.33,189,5.96,84.2,2.97,Activo / En Contrato
+REC-1137,Guardia de seguridad,Empleado Real (Humano),Gabriel Reyes,485.74,164.84,963.97,14031.53,182,6.2,78.4,5.18,Activo / En Contrato
+REC-1138,Guardia de seguridad,Empleado Real (Humano),Gonzalo Castillo,440.95,173.41,943.09,13838.95,193,5.78,77.6,3.99,Activo / En Contrato
+REC-1139,Guardia de seguridad,Empleado Real (Humano),Miguel Cruz,482.77,216.89,1089.24,16156.23,184,7.1,62.2,2.69,Activo / En Contrato
+REC-1140,Guardia de seguridad,Empleado Real (Humano),Ignacio Gómez,436.71,133.36,1003.32,14076.89,168,6.77,78.0,5.08,Activo / En Contrato
+REC-1141,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),AeroPatrol Tower (Unit #101),26381.83,671.63,0.0,13335.92,740,1.5,94.3,1.97,Desplegado / Producción
+REC-1142,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),VisionTower Pro (Unit #102),25875.03,530.8,0.0,11544.58,719,1.34,90.7,2.56,Desplegado / Producción
+REC-1143,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),PatrolBot V2 (Unit #103),29605.09,600.51,0.0,13127.09,740,1.48,96.3,2.1,Desplegado / Producción
+REC-1144,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),SentryBot Defense (Unit #104),25189.41,593.84,0.0,12163.99,731,1.39,90.0,1.65,Desplegado / Producción
+REC-1145,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),SentryBot Defense (Unit #105),26925.94,581.76,0.0,12366.27,729,1.41,93.7,1.67,Desplegado / Producción
+REC-1146,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),VisionTower Pro (Unit #106),31038.6,639.56,0.0,13882.45,704,1.64,93.8,1.85,Desplegado / Producción
+REC-1147,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),VisionTower Pro (Unit #107),29710.33,631.72,0.0,13522.73,729,1.55,93.6,2.29,Desplegado / Producción
+REC-1148,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),GuardEye-X Drone (Unit #108),25053.12,533.58,0.0,11413.54,754,1.26,92.4,1.54,Desplegado / Producción
+REC-1149,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),PatrolBot V2 (Unit #109),29914.47,562.39,0.0,12731.62,704,1.51,94.9,1.25,Desplegado / Producción
+REC-1150,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),RoboGuard Sentinel (Unit #110),28262.48,478.23,0.0,11391.23,754,1.26,91.8,2.37,Desplegado / Producción
+REC-1151,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),Sentinel 360 (Unit #111),22408.35,501.6,0.0,10500.9,713,1.23,91.2,1.94,Desplegado / Producción
+REC-1152,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),RoboGuard Sentinel (Unit #112),24439.22,656.01,0.0,12759.92,705,1.51,88.2,2.49,Desplegado / Producción
+REC-1153,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),RoboGuard Sentinel (Unit #113),28497.63,585.41,0.0,12724.47,704,1.51,90.4,1.9,Desplegado / Producción
+REC-1154,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),PatrolBot V2 (Unit #114),23526.18,578.19,0.0,11643.49,720,1.35,94.2,2.04,Desplegado / Producción
+REC-1155,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),GuardEye-X Drone (Unit #115),27089.93,553.52,0.0,12060.23,737,1.36,92.0,2.41,Desplegado / Producción
+REC-1156,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),VisionTower Pro (Unit #116),34175.9,586.35,0.0,13871.39,706,1.64,94.7,1.71,Desplegado / Producción
+REC-1157,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),SentryBot Defense (Unit #117),29231.14,537.56,0.0,12296.93,699,1.47,90.3,1.74,Desplegado / Producción
+REC-1158,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),PatrolBot V2 (Unit #118),24069.38,637.99,0.0,12469.78,682,1.52,91.5,1.35,Desplegado / Producción
+REC-1159,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),SentryBot Defense (Unit #119),31348.1,555.5,0.0,12935.63,732,1.47,94.3,1.65,Desplegado / Producción
+REC-1160,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),RoboGuard Sentinel (Unit #120),26040.83,645.18,0.0,12950.27,711,1.52,94.5,2.11,Desplegado / Producción
+REC-1161,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),AeroPatrol Tower (Unit #121),26884.66,612.75,0.0,12729.97,714,1.49,89.8,1.85,Desplegado / Producción
+REC-1162,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),GuardEye-X Drone (Unit #122),31546.99,678.63,0.0,14452.97,738,1.63,93.4,1.83,Desplegado / Producción
+REC-1163,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),Sentinel 360 (Unit #123),28743.35,672.17,0.0,13814.73,724,1.59,90.7,1.42,Desplegado / Producción
+REC-1164,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),SentryBot Defense (Unit #124),29489.58,594.49,0.0,13031.79,704,1.54,89.0,1.53,Desplegado / Producción
+REC-1165,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),RoboGuard Sentinel (Unit #125),28255.37,613.24,0.0,13010.01,708,1.53,95.4,2.31,Desplegado / Producción
+REC-1166,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),AeroPatrol Tower (Unit #126),31995.46,539.87,0.0,12877.56,704,1.52,90.4,1.55,Desplegado / Producción
+REC-1167,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),RoboGuard Sentinel (Unit #127),27444.01,598.35,0.0,12669.04,687,1.54,94.5,2.2,Desplegado / Producción
+REC-1168,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),VisionTower Pro (Unit #128),31855.28,560.19,0.0,13093.39,725,1.5,89.5,1.9,Desplegado / Producción
+REC-1169,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),Sentinel 360 (Unit #129),30321.51,631.68,0.0,13644.51,723,1.57,96.1,1.48,Desplegado / Producción
+REC-1170,Guardia de seguridad,Equipo Automatizado (Hardware/Robótica),VisionTower Pro (Unit #130),23352.66,554.88,0.0,11329.12,743,1.27,91.0,1.86,Desplegado / Producción
+REC-1171,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),PatrolPredict Analytics License #501,3765.75,95.98,425.65,10025.33,719,0.73,95.8,0.76,Fase Piloto / Licencia SaaS
+REC-1172,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),PatrolPredict Analytics License #502,3235.17,133.25,418.64,9857.83,729,0.76,96.6,1.15,Fase Piloto / Licencia SaaS
+REC-1173,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),PatrolPredict Analytics License #503,4170.24,133.69,425.58,10881.37,731,0.77,96.0,0.69,Fase Piloto / Licencia SaaS
+REC-1174,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),GuardVision ThreatDetector License #504,3580.03,126.16,371.1,9547.14,724,0.69,92.5,0.95,Fase Piloto / Licencia SaaS
+REC-1175,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),PatrolPredict Analytics License #505,3874.38,128.55,373.12,9894.45,737,0.68,97.7,0.76,Fase Piloto / Licencia SaaS
+REC-1176,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),GuardVision ThreatDetector License #506,3674.11,85.97,433.62,9909.16,725,0.72,93.3,0.88,Fase Piloto / Licencia SaaS
+REC-1177,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),AIVision Guard 360 License #507,2859.66,107.92,389.37,8827.12,709,0.7,96.7,0.89,Fase Piloto / Licencia SaaS
+REC-1178,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SafeAI Facial Recon License #508,4371.93,125.13,326.73,9794.28,727,0.62,97.2,1.1,Fase Piloto / Licencia SaaS
+REC-1179,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),PatrolPredict Analytics License #509,3297.96,115.95,267.57,7900.25,705,0.54,97.2,0.8,Fase Piloto / Licencia SaaS
+REC-1180,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),PatrolPredict Analytics License #510,3687.46,99.87,265.91,8076.86,719,0.51,94.0,1.39,Fase Piloto / Licencia SaaS
+REC-1181,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),AIVision Guard 360 License #511,2974.1,152.93,431.54,9987.75,732,0.8,95.3,0.91,Fase Piloto / Licencia SaaS
+REC-1182,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),PatrolPredict Analytics License #512,3378.51,138.03,362.45,9384.17,744,0.67,94.8,0.71,Fase Piloto / Licencia SaaS
+REC-1183,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),AIVision Guard 360 License #513,2963.95,113.53,365.38,8710.94,725,0.66,95.4,0.8,Fase Piloto / Licencia SaaS
+REC-1184,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SafeAI Facial Recon License #514,3561.81,108.92,484.16,10678.74,718,0.83,96.7,0.82,Fase Piloto / Licencia SaaS
+REC-1185,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),GuardVision ThreatDetector License #515,2982.46,144.97,400.63,9529.61,714,0.76,98.5,0.94,Fase Piloto / Licencia SaaS
+REC-1186,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),AIVision Guard 360 License #516,3738.73,93.19,420.7,9905.44,709,0.72,97.6,0.97,Fase Piloto / Licencia SaaS
+REC-1187,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SafeAI Facial Recon License #517,3299.25,119.6,325.69,8642.7,732,0.61,95.8,0.91,Fase Piloto / Licencia SaaS
+REC-1188,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),PatrolPredict Analytics License #518,4401.79,93.42,466.6,11122.07,728,0.77,97.0,0.82,Fase Piloto / Licencia SaaS
+REC-1189,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SentriAI Intrusion License #519,4084.33,102.6,349.07,9504.44,715,0.63,96.2,0.75,Fase Piloto / Licencia SaaS
+REC-1190,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),AIVision Guard 360 License #520,3904.3,99.74,372.94,9576.41,720,0.66,100.0,0.46,Fase Piloto / Licencia SaaS
+REC-1191,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SentriAI Intrusion License #521,3139.23,110.74,320.26,8311.32,701,0.61,97.4,1.1,Fase Piloto / Licencia SaaS
+REC-1192,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),AIVision Guard 360 License #522,4477.37,133.84,368.02,10499.61,740,0.68,96.5,0.85,Fase Piloto / Licencia SaaS
+REC-1193,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),GuardVision ThreatDetector License #523,3435.59,118.08,344.52,8986.78,735,0.63,93.3,0.98,Fase Piloto / Licencia SaaS
+REC-1194,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),GuardVision ThreatDetector License #524,3204.4,108.89,398.5,9293.07,746,0.68,97.2,1.19,Fase Piloto / Licencia SaaS
+REC-1195,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SentriAI Intrusion License #525,3534.56,120.99,430.73,10155.16,721,0.77,96.9,0.68,Fase Piloto / Licencia SaaS
+REC-1196,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),AIVision Guard 360 License #526,3667.35,100.11,403.21,9707.16,730,0.69,95.7,0.51,Fase Piloto / Licencia SaaS
+REC-1197,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SafeAI Facial Recon License #527,2573.72,110.55,304.89,7559.07,716,0.58,97.3,0.72,Fase Piloto / Licencia SaaS
+REC-1198,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),GuardVision ThreatDetector License #528,3587.83,137.13,458.86,10739.59,725,0.82,95.8,0.79,Fase Piloto / Licencia SaaS
+REC-1199,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SafeAI Facial Recon License #529,4152.87,122.81,346.23,9781.44,714,0.66,96.4,0.68,Fase Piloto / Licencia SaaS
+REC-1200,Guardia de seguridad,Inteligencia Artificial (Software/SaaS),SafeAI Facial Recon License #530,2439.3,144.27,441.32,9466.33,711,0.82,96.2,0.66,Fase Piloto / Licencia SaaS
+REC-1201,Albañil,Empleado Real (Humano),Pedro González,367.32,188.17,1203.11,17062.7,172,8.09,86.1,3.32,Activo / En Contrato
+REC-1202,Albañil,Empleado Real (Humano),Ramón Reyes,273.44,163.47,1252.22,17261.8,174,8.14,89.0,4.64,Activo / En Contrato
+REC-1203,Albañil,Empleado Real (Humano),Tomás Flores,345.03,182.43,1192.74,16847.04,175,7.86,81.4,5.26,Activo / En Contrato
+REC-1204,Albañil,Empleado Real (Humano),Marcos Mendoza,323.21,170.24,1056.27,15041.34,153,8.02,88.8,2.88,Activo / En Contrato
+REC-1205,Albañil,Empleado Real (Humano),José Manuel Reyes,283.84,142.23,1046.04,14543.15,189,6.29,76.6,2.87,Activo / En Contrato
+REC-1206,Albañil,Empleado Real (Humano),Gonzalo Torres,367.72,198.45,1073.6,15632.3,161,7.9,83.9,4.76,Activo / En Contrato
+REC-1207,Albañil,Empleado Real (Humano),Guillermo Morales,340.44,209.32,992.02,14756.54,156,7.7,89.5,5.33,Activo / En Contrato
+REC-1208,Albañil,Empleado Real (Humano),Antonio Torres,336.88,198.11,1073.04,15590.73,162,7.85,83.8,5.87,Activo / En Contrato
+REC-1209,Albañil,Empleado Real (Humano),Javier Romero,374.16,230.94,1125.34,16649.61,176,7.71,83.7,3.51,Activo / En Contrato
+REC-1210,Albañil,Empleado Real (Humano),Marcos Castillo,298.48,173.96,1080.43,15351.11,171,7.34,92.0,5.76,Activo / En Contrato
+REC-1211,Albañil,Empleado Real (Humano),Tomás Romero,282.54,195.61,1118.82,16055.74,163,8.06,79.2,4.21,Activo / En Contrato
+REC-1212,Albañil,Empleado Real (Humano),Domingo Martínez,383.45,179.42,1033.32,14936.3,171,7.09,89.4,4.41,Activo / En Contrato
+REC-1213,Albañil,Empleado Real (Humano),Ricardo Reyes,389.18,170.58,1028.37,14776.62,170,7.05,82.9,5.49,Activo / En Contrato
+REC-1214,Albañil,Empleado Real (Humano),Agustín Rodríguez,438.57,166.7,1028.3,14778.67,161,7.42,86.1,4.14,Activo / En Contrato
+REC-1215,Albañil,Empleado Real (Humano),Antonio Pérez,372.32,193.01,1043.52,15210.76,173,7.15,87.1,3.82,Activo / En Contrato
+REC-1216,Albañil,Empleado Real (Humano),Antonio Ruiz,308.54,160.16,1241.69,17130.82,182,7.7,90.1,4.25,Activo / En Contrato
+REC-1217,Albañil,Empleado Real (Humano),Gonzalo Torres,333.94,204.45,1143.9,16514.16,162,8.32,84.0,5.33,Activo / En Contrato
+REC-1218,Albañil,Empleado Real (Humano),Ricardo Cruz,247.09,171.91,1070.74,15158.93,175,7.1,83.5,3.37,Activo / En Contrato
+REC-1219,Albañil,Empleado Real (Humano),Javier Castillo,355.48,128.75,1188.86,16166.77,175,7.53,86.6,5.85,Activo / En Contrato
+REC-1220,Albañil,Empleado Real (Humano),Gonzalo Morales,402.4,197.31,1046.39,15326.75,175,7.11,82.9,7.14,Activo / En Contrato
+REC-1221,Albañil,Empleado Real (Humano),Tomás Díaz,383.48,160.59,1145.47,16056.16,159,8.21,87.4,5.64,Activo / En Contrato
+REC-1222,Albañil,Empleado Real (Humano),Salvador Sánchez,427.39,205.85,1047.89,15472.3,183,6.85,85.6,5.99,Activo / En Contrato
+REC-1223,Albañil,Empleado Real (Humano),Vicente Torres,374.38,156.45,1265.44,17437.08,161,8.83,84.5,5.89,Activo / En Contrato
+REC-1224,Albañil,Empleado Real (Humano),Felipe Torres,366.12,176.22,1143.15,16198.55,165,8.0,84.9,6.64,Activo / En Contrato
+REC-1225,Albañil,Empleado Real (Humano),Ricardo Mendoza,364.19,168.08,1052.44,15010.53,187,6.53,80.6,6.22,Activo / En Contrato
+REC-1226,Albañil,Empleado Real (Humano),Marcos López,349.81,197.79,1072.55,15593.83,166,7.65,84.2,4.93,Activo / En Contrato
+REC-1227,Albañil,Empleado Real (Humano),Vicente Mendoza,340.77,162.74,1107.91,15588.54,154,8.25,91.0,4.06,Activo / En Contrato
+REC-1228,Albañil,Empleado Real (Humano),Manuel Mendoza,415.0,197.06,1065.89,15570.39,166,7.61,89.8,6.05,Activo / En Contrato
+REC-1229,Albañil,Empleado Real (Humano),Álvaro González,274.82,166.58,1213.55,16836.37,166,8.31,83.8,3.83,Activo / En Contrato
+REC-1230,Albañil,Empleado Real (Humano),Ramón Morales,355.76,209.15,1070.92,15716.53,170,7.53,84.7,3.06,Activo / En Contrato
+REC-1231,Albañil,Empleado Real (Humano),Álvaro Vargas,325.51,191.64,1221.59,17284.17,166,8.51,93.2,4.57,Activo / En Contrato
+REC-1232,Albañil,Empleado Real (Humano),Vicente Cruz,387.47,186.64,860.49,12953.02,157,6.67,85.2,5.02,Activo / En Contrato
+REC-1233,Albañil,Empleado Real (Humano),Javier Reyes,392.15,170.96,1207.6,16934.94,154,8.95,81.1,5.86,Activo / En Contrato
+REC-1234,Albañil,Empleado Real (Humano),Antonio López,337.49,164.99,1229.78,17074.68,177,7.88,86.2,2.54,Activo / En Contrato
+REC-1235,Albañil,Empleado Real (Humano),Ricardo Cruz,340.02,206.0,1042.8,15325.65,155,8.06,86.4,5.02,Activo / En Contrato
+REC-1236,Albañil,Empleado Real (Humano),Ricardo Rodríguez,360.89,169.58,918.71,13420.32,138,7.89,86.5,3.46,Activo / En Contrato
+REC-1237,Albañil,Empleado Real (Humano),Pedro Martínez,359.61,196.39,1018.26,14935.34,163,7.45,86.4,2.75,Activo / En Contrato
+REC-1238,Albañil,Empleado Real (Humano),Vicente Cruz,320.35,206.14,1216.6,17393.28,170,8.37,87.1,4.1,Activo / En Contrato
+REC-1239,Albañil,Empleado Real (Humano),Gonzalo Mendoza,332.77,162.6,1119.96,15723.46,176,7.29,87.9,4.93,Activo / En Contrato
+REC-1240,Albañil,Empleado Real (Humano),Manuel Reyes,353.11,181.99,814.67,12313.05,178,5.6,81.8,4.0,Activo / En Contrato
+REC-1241,Albañil,Equipo Automatizado (Hardware/Robótica),MixBot Concrete Pump (Unit #101),95424.07,1365.88,0.0,35475.36,327,9.04,91.5,1.82,Desplegado / Producción
+REC-1242,Albañil,Equipo Automatizado (Hardware/Robótica),MixBot Concrete Pump (Unit #102),81449.01,1477.14,0.0,34015.54,318,8.91,92.0,2.56,Desplegado / Producción
+REC-1243,Albañil,Equipo Automatizado (Hardware/Robótica),Hadrian X Bricklayer (Unit #103),86498.06,1334.67,0.0,33315.65,293,9.48,88.9,2.33,Desplegado / Producción
+REC-1244,Albañil,Equipo Automatizado (Hardware/Robótica),MixBot Concrete Pump (Unit #104),82723.57,1495.97,0.0,34496.36,339,8.48,91.0,2.87,Desplegado / Producción
+REC-1245,Albañil,Equipo Automatizado (Hardware/Robótica),RoboMason Masonry v2 (Unit #105),90145.33,1233.92,0.0,32836.16,327,8.37,91.3,2.29,Desplegado / Producción
+REC-1246,Albañil,Equipo Automatizado (Hardware/Robótica),MixBot Concrete Pump (Unit #106),93201.47,1715.38,0.0,39224.8,313,10.44,94.1,2.1,Desplegado / Producción
+REC-1247,Albañil,Equipo Automatizado (Hardware/Robótica),AssistPro 500 Exoskeleton (Unit #107),85194.54,1319.21,0.0,32869.4,307,8.92,94.1,2.55,Desplegado / Producción
+REC-1248,Albañil,Equipo Automatizado (Hardware/Robótica),Structur3D Concrete Sprayer (Unit #108),88192.98,1551.17,0.0,36252.61,338,8.94,90.3,2.4,Desplegado / Producción
+REC-1249,Albañil,Equipo Automatizado (Hardware/Robótica),AssistPro 500 Exoskeleton (Unit #109),73662.66,991.51,0.0,26630.61,294,7.55,88.8,1.94,Desplegado / Producción
+REC-1250,Albañil,Equipo Automatizado (Hardware/Robótica),BuildBot Layer 3D (Unit #110),75865.42,1313.02,0.0,30929.31,328,7.86,88.9,2.54,Desplegado / Producción
+REC-1251,Albañil,Equipo Automatizado (Hardware/Robótica),Hadrian X Bricklayer (Unit #111),82390.19,1002.41,0.0,28507.01,290,8.19,89.7,1.47,Desplegado / Producción
+REC-1252,Albañil,Equipo Automatizado (Hardware/Robótica),RoboMason Masonry v2 (Unit #112),88859.49,1330.85,0.0,33742.04,311,9.04,85.8,1.95,Desplegado / Producción
+REC-1253,Albañil,Equipo Automatizado (Hardware/Robótica),Structur3D Concrete Sprayer (Unit #113),78063.62,1259.9,0.0,30731.57,302,8.48,94.6,1.43,Desplegado / Producción
+REC-1254,Albañil,Equipo Automatizado (Hardware/Robótica),Structur3D Concrete Sprayer (Unit #114),101185.32,1496.58,0.0,38196.06,312,10.2,90.5,3.53,Desplegado / Producción
+REC-1255,Albañil,Equipo Automatizado (Hardware/Robótica),RoboMason Masonry v2 (Unit #115),87099.32,1552.92,0.0,36054.95,278,10.81,83.7,2.07,Desplegado / Producción
+REC-1256,Albañil,Equipo Automatizado (Hardware/Robótica),Hadrian X Bricklayer (Unit #116),72713.28,1569.76,0.0,33379.75,295,9.43,93.4,1.9,Desplegado / Producción
+REC-1257,Albañil,Equipo Automatizado (Hardware/Robótica),Hadrian X Bricklayer (Unit #117),96795.24,1295.23,0.0,34901.78,316,9.2,88.6,1.63,Desplegado / Producción
+REC-1258,Albañil,Equipo Automatizado (Hardware/Robótica),RoboMason Masonry v2 (Unit #118),81237.85,1524.83,0.0,34545.53,339,8.49,95.3,2.24,Desplegado / Producción
+REC-1259,Albañil,Equipo Automatizado (Hardware/Robótica),BuildBot Layer 3D (Unit #119),95537.26,1468.16,0.0,36725.38,287,10.66,87.8,1.35,Desplegado / Producción
+REC-1260,Albañil,Equipo Automatizado (Hardware/Robótica),RoboMason Masonry v2 (Unit #120),85104.7,1260.06,0.0,32141.68,330,8.12,89.8,1.36,Desplegado / Producción
+REC-1261,Albañil,Equipo Automatizado (Hardware/Robótica),BuildBot Layer 3D (Unit #121),92196.23,1322.33,0.0,34307.24,323,8.85,99.2,3.1,Desplegado / Producción
+REC-1262,Albañil,Equipo Automatizado (Hardware/Robótica),MixBot Concrete Pump (Unit #122),83788.27,1237.37,0.0,31606.13,354,7.44,91.9,1.84,Desplegado / Producción
+REC-1263,Albañil,Equipo Automatizado (Hardware/Robótica),AssistPro 500 Exoskeleton (Unit #123),78809.55,1325.25,0.0,31664.92,311,8.48,87.2,2.6,Desplegado / Producción
+REC-1264,Albañil,Equipo Automatizado (Hardware/Robótica),RoboMason Masonry v2 (Unit #124),76262.4,1700.97,0.0,35664.15,320,9.29,82.4,1.76,Desplegado / Producción
+REC-1265,Albañil,Equipo Automatizado (Hardware/Robótica),MixBot Concrete Pump (Unit #125),78768.47,1397.62,0.0,32525.11,337,8.04,89.9,1.2,Desplegado / Producción
+REC-1266,Albañil,Equipo Automatizado (Hardware/Robótica),MixBot Concrete Pump (Unit #126),78564.52,1008.66,0.0,27816.83,370,6.27,87.5,1.16,Desplegado / Producción
+REC-1267,Albañil,Equipo Automatizado (Hardware/Robótica),Structur3D Concrete Sprayer (Unit #127),89411.72,1316.49,0.0,33680.23,341,8.23,90.0,1.69,Desplegado / Producción
+REC-1268,Albañil,Equipo Automatizado (Hardware/Robótica),MixBot Concrete Pump (Unit #128),91645.78,1178.21,0.0,32467.71,322,8.4,88.0,2.14,Desplegado / Producción
+REC-1269,Albañil,Equipo Automatizado (Hardware/Robótica),Structur3D Concrete Sprayer (Unit #129),96983.1,1361.67,0.0,35736.71,277,10.75,85.2,2.29,Desplegado / Producción
+REC-1270,Albañil,Equipo Automatizado (Hardware/Robótica),AssistPro 500 Exoskeleton (Unit #130),96887.64,1101.7,0.0,32597.98,324,8.38,88.6,1.64,Desplegado / Producción
+REC-1271,Albañil,Inteligencia Artificial (Software/SaaS),MasonAI Structural Plan License #501,5392.69,138.28,363.87,11418.46,356,1.41,93.0,1.64,Fase Piloto / Licencia SaaS
+REC-1272,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #502,4376.83,168.78,453.45,11843.65,323,1.93,91.0,1.64,Fase Piloto / Licencia SaaS
+REC-1273,Albañil,Inteligencia Artificial (Software/SaaS),MasonAI Structural Plan License #503,4544.31,161.16,373.78,10963.66,358,1.49,94.6,1.66,Fase Piloto / Licencia SaaS
+REC-1274,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #504,4938.95,170.36,514.17,13153.28,321,2.13,91.8,1.44,Fase Piloto / Licencia SaaS
+REC-1275,Albañil,Inteligencia Artificial (Software/SaaS),PlanBuild Generative AI License #505,3998.16,138.32,436.55,10896.62,349,1.65,92.6,1.26,Fase Piloto / Licencia SaaS
+REC-1276,Albañil,Inteligencia Artificial (Software/SaaS),MasonAI Structural Plan License #506,4380.85,190.02,291.72,10161.73,334,1.44,95.2,1.7,Fase Piloto / Licencia SaaS
+REC-1277,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #507,5118.05,132.28,347.13,10870.97,361,1.33,94.6,1.69,Fase Piloto / Licencia SaaS
+REC-1278,Albañil,Inteligencia Artificial (Software/SaaS),StructAI Thermal Quality License #508,5793.96,139.23,449.81,12862.49,347,1.7,95.3,1.31,Fase Piloto / Licencia SaaS
+REC-1279,Albañil,Inteligencia Artificial (Software/SaaS),MasonAI Structural Plan License #509,5096.05,167.3,461.77,12644.85,359,1.75,91.5,1.39,Fase Piloto / Licencia SaaS
+REC-1280,Albañil,Inteligencia Artificial (Software/SaaS),CivilCalc Optimization License #510,5593.85,173.84,492.36,13588.19,357,1.87,94.4,1.35,Fase Piloto / Licencia SaaS
+REC-1281,Albañil,Inteligencia Artificial (Software/SaaS),MasonAI Structural Plan License #511,6677.8,191.69,459.84,14496.18,374,1.74,91.2,1.51,Fase Piloto / Licencia SaaS
+REC-1282,Albañil,Inteligencia Artificial (Software/SaaS),MasonAI Structural Plan License #512,4959.3,130.27,541.17,13016.54,353,1.9,92.3,1.44,Fase Piloto / Licencia SaaS
+REC-1283,Albañil,Inteligencia Artificial (Software/SaaS),PlanBuild Generative AI License #513,4030.3,137.92,465.28,11268.72,355,1.7,91.5,1.65,Fase Piloto / Licencia SaaS
+REC-1284,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #514,4224.5,139.29,472.79,11569.42,349,1.75,95.8,1.2,Fase Piloto / Licencia SaaS
+REC-1285,Albañil,Inteligencia Artificial (Software/SaaS),CivilCalc Optimization License #515,5656.58,164.74,477.37,13361.89,362,1.77,94.1,1.48,Fase Piloto / Licencia SaaS
+REC-1286,Albañil,Inteligencia Artificial (Software/SaaS),MasonAI Structural Plan License #516,5746.66,142.25,539.17,13923.64,348,1.96,96.6,1.43,Fase Piloto / Licencia SaaS
+REC-1287,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #517,5135.77,186.68,344.5,11510.0,321,1.65,94.6,1.25,Fase Piloto / Licencia SaaS
+REC-1288,Albañil,Inteligencia Artificial (Software/SaaS),PlanBuild Generative AI License #518,4692.5,159.47,481.67,12386.12,337,1.9,89.7,1.1,Fase Piloto / Licencia SaaS
+REC-1289,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #519,4397.23,122.65,506.06,11941.79,350,1.8,93.9,1.76,Fase Piloto / Licencia SaaS
+REC-1290,Albañil,Inteligencia Artificial (Software/SaaS),PlanBuild Generative AI License #520,4294.67,169.11,510.06,12444.68,396,1.72,96.1,1.51,Fase Piloto / Licencia SaaS
+REC-1291,Albañil,Inteligencia Artificial (Software/SaaS),CivilCalc Optimization License #521,5304.12,159.36,327.29,11143.88,359,1.36,92.5,1.6,Fase Piloto / Licencia SaaS
+REC-1292,Albañil,Inteligencia Artificial (Software/SaaS),PlanBuild Generative AI License #522,5571.09,196.71,416.47,12929.28,372,1.65,92.5,1.67,Fase Piloto / Licencia SaaS
+REC-1293,Albañil,Inteligencia Artificial (Software/SaaS),PlanBuild Generative AI License #523,5349.9,147.15,426.14,12229.35,299,1.92,94.6,1.6,Fase Piloto / Licencia SaaS
+REC-1294,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #524,5101.73,133.34,397.72,11474.41,342,1.55,89.5,1.81,Fase Piloto / Licencia SaaS
+REC-1295,Albañil,Inteligencia Artificial (Software/SaaS),MasonAI Structural Plan License #525,5541.2,153.48,491.85,13285.11,350,1.84,92.6,1.89,Fase Piloto / Licencia SaaS
+REC-1296,Albañil,Inteligencia Artificial (Software/SaaS),CivilCalc Optimization License #526,4837.16,124.91,393.66,11059.97,355,1.46,93.5,1.56,Fase Piloto / Licencia SaaS
+REC-1297,Albañil,Inteligencia Artificial (Software/SaaS),StructAI Thermal Quality License #527,5627.04,146.23,443.56,12704.47,367,1.61,93.6,1.07,Fase Piloto / Licencia SaaS
+REC-1298,Albañil,Inteligencia Artificial (Software/SaaS),CivilCalc Optimization License #528,5720.33,101.49,368.77,11363.43,377,1.25,90.9,1.63,Fase Piloto / Licencia SaaS
+REC-1299,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #529,6219.5,160.07,337.74,12193.26,366,1.36,92.2,0.99,Fase Piloto / Licencia SaaS
+REC-1300,Albañil,Inteligencia Artificial (Software/SaaS),BuildMind Shuttering License #530,4338.97,152.14,528.78,12509.99,394,1.73,92.2,1.72,Fase Piloto / Licencia SaaS
+REC-1301,Atención al cliente telefónica,Empleado Real (Humano),Andrea Vargas,425.29,127.3,979.22,13703.58,156,7.09,80.7,4.23,Activo / En Contrato
+REC-1302,Atención al cliente telefónica,Empleado Real (Humano),Adriana Ruiz,411.22,111.33,909.25,12658.16,165,6.19,72.7,5.2,Activo / En Contrato
+REC-1303,Atención al cliente telefónica,Empleado Real (Humano),Lorena Cruz,493.31,87.06,898.91,12324.87,158,6.24,69.3,5.54,Activo / En Contrato
+REC-1304,Atención al cliente telefónica,Empleado Real (Humano),Beatriz Hernández,417.37,88.43,859.07,11787.43,153,6.19,77.7,3.56,Activo / En Contrato
+REC-1305,Atención al cliente telefónica,Empleado Real (Humano),Claudia Pérez,445.62,105.28,938.75,12973.9,178,5.87,80.2,4.03,Activo / En Contrato
+REC-1306,Atención al cliente telefónica,Empleado Real (Humano),Verónica Rodríguez,451.39,120.08,976.15,13606.13,146,7.51,73.0,6.46,Activo / En Contrato
+REC-1307,Atención al cliente telefónica,Empleado Real (Humano),Adriana Flores,467.12,114.65,845.46,11988.44,169,5.68,77.2,4.51,Activo / En Contrato
+REC-1308,Atención al cliente telefónica,Empleado Real (Humano),Griselda Morales,439.23,120.02,864.06,12248.17,161,6.11,75.7,4.54,Activo / En Contrato
+REC-1309,Atención al cliente telefónica,Empleado Real (Humano),Valentina Martínez,428.09,105.1,914.98,12669.09,157,6.5,78.4,4.1,Activo / En Contrato
+REC-1310,Atención al cliente telefónica,Empleado Real (Humano),Patricia Díaz,450.41,100.68,891.57,12357.47,149,6.66,75.5,3.19,Activo / En Contrato
+REC-1311,Atención al cliente telefónica,Empleado Real (Humano),Andrea Vargas,433.78,114.12,921.88,12865.85,149,6.95,78.7,4.68,Activo / En Contrato
+REC-1312,Atención al cliente telefónica,Empleado Real (Humano),Natalia Castillo,439.99,127.98,866.57,12374.57,162,6.14,77.5,5.1,Activo / En Contrato
+REC-1313,Atención al cliente telefónica,Empleado Real (Humano),Griselda Vargas,433.64,123.23,925.22,13015.07,158,6.64,76.0,4.12,Activo / En Contrato
+REC-1314,Atención al cliente telefónica,Empleado Real (Humano),Beatriz González,446.03,84.47,913.24,12418.47,159,6.27,76.7,5.09,Activo / En Contrato
+REC-1315,Atención al cliente telefónica,Empleado Real (Humano),Daniela Martínez,429.04,129.22,847.86,12153.96,161,6.07,70.4,4.11,Activo / En Contrato
+REC-1316,Atención al cliente telefónica,Empleado Real (Humano),Camila Pérez,478.94,113.45,970.3,13483.92,143,7.58,87.1,5.16,Activo / En Contrato
+REC-1317,Atención al cliente telefónica,Empleado Real (Humano),Griselda Gómez,514.15,97.79,895.52,12433.96,162,6.13,76.0,3.61,Activo / En Contrato
+REC-1318,Atención al cliente telefónica,Empleado Real (Humano),Carolina Gómez,453.31,109.52,901.93,12590.76,160,6.32,76.8,3.62,Activo / En Contrato
+REC-1319,Atención al cliente telefónica,Empleado Real (Humano),Paula Morales,445.6,118.68,952.34,13297.79,149,7.19,85.6,5.08,Activo / En Contrato
+REC-1320,Atención al cliente telefónica,Empleado Real (Humano),Natalia Castillo,476.83,121.03,963.98,13496.98,173,6.27,83.8,4.58,Activo / En Contrato
+REC-1321,Atención al cliente telefónica,Empleado Real (Humano),Valentina Torres,458.22,107.27,894.75,12482.52,165,6.07,78.9,4.26,Activo / En Contrato
+REC-1322,Atención al cliente telefónica,Empleado Real (Humano),Fernanda Álvarez,359.3,95.02,914.82,12477.35,160,6.31,83.8,5.1,Activo / En Contrato
+REC-1323,Atención al cliente telefónica,Empleado Real (Humano),Verónica Castillo,497.77,100.65,759.89,10824.28,154,5.59,78.4,4.83,Activo / En Contrato
+REC-1324,Atención al cliente telefónica,Empleado Real (Humano),Jimena Cruz,421.42,129.66,782.22,11364.02,160,5.7,82.6,4.65,Activo / En Contrato
+REC-1325,Atención al cliente telefónica,Empleado Real (Humano),Patricia Castillo,458.72,102.38,965.55,13273.9,159,6.72,84.2,3.42,Activo / En Contrato
+REC-1326,Atención al cliente telefónica,Empleado Real (Humano),Lorena Hernández,477.37,103.28,916.2,12711.18,172,5.93,79.0,5.03,Activo / En Contrato
+REC-1327,Atención al cliente telefónica,Empleado Real (Humano),Claudia Sánchez,456.67,118.03,926.54,12991.51,164,6.37,74.6,4.22,Activo / En Contrato
+REC-1328,Atención al cliente telefónica,Empleado Real (Humano),Adriana López,471.79,104.43,899.49,12518.84,155,6.48,86.1,4.71,Activo / En Contrato
+REC-1329,Atención al cliente telefónica,Empleado Real (Humano),Laura Castillo,456.92,106.37,903.26,12572.49,170,5.94,72.0,3.53,Activo / En Contrato
+REC-1330,Atención al cliente telefónica,Empleado Real (Humano),Lorena Cruz,484.86,89.46,866.56,11957.08,153,6.25,83.7,4.98,Activo / En Contrato
+REC-1331,Atención al cliente telefónica,Empleado Real (Humano),Silvia Hernández,413.74,142.29,881.41,12698.15,166,6.17,75.2,5.45,Activo / En Contrato
+REC-1332,Atención al cliente telefónica,Empleado Real (Humano),Mónica Reyes,383.83,118.52,865.88,12196.59,166,5.93,74.2,4.84,Activo / En Contrato
+REC-1333,Atención al cliente telefónica,Empleado Real (Humano),Griselda Díaz,446.45,89.12,900.84,12325.9,168,5.89,75.3,4.87,Activo / En Contrato
+REC-1334,Atención al cliente telefónica,Empleado Real (Humano),Lorena Flores,413.98,101.48,924.11,12721.08,172,5.96,71.6,4.4,Activo / En Contrato
+REC-1335,Atención al cliente telefónica,Empleado Real (Humano),Beatriz Morales,408.55,122.64,906.79,12761.66,146,7.05,76.5,3.19,Activo / En Contrato
+REC-1336,Atención al cliente telefónica,Empleado Real (Humano),Paula Reyes,458.46,106.86,959.53,13255.17,150,7.11,86.3,5.95,Activo / En Contrato
+REC-1337,Atención al cliente telefónica,Empleado Real (Humano),Silvia Gómez,418.29,96.83,828.82,11526.08,152,6.09,78.2,2.85,Activo / En Contrato
+REC-1338,Atención al cliente telefónica,Empleado Real (Humano),Jimena Pérez,429.4,123.71,883.82,12519.75,156,6.46,88.6,4.52,Activo / En Contrato
+REC-1339,Atención al cliente telefónica,Empleado Real (Humano),Verónica Flores,334.9,102.08,916.69,12560.25,147,6.93,79.7,5.64,Activo / En Contrato
+REC-1340,Atención al cliente telefónica,Empleado Real (Humano),Claudia Martínez,468.72,126.16,858.53,12284.97,160,6.15,82.3,4.41,Activo / En Contrato
+REC-1341,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),OmniChannel Telecom Hub (Unit #101),11521.41,287.58,0.0,5755.21,635,0.76,84.0,2.22,Desplegado / Producción
+REC-1342,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),SmartRoute HD PBX (Unit #102),11356.25,279.72,0.0,5627.88,591,0.79,87.7,2.93,Desplegado / Producción
+REC-1343,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Enterprise Voicenet IVR (Unit #103),15630.81,290.96,0.0,6617.71,610,0.9,89.1,3.32,Desplegado / Producción
+REC-1344,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Interactive Voice Station v4 (Unit #104),15193.35,287.97,0.0,6494.29,674,0.8,86.7,2.39,Desplegado / Producción
+REC-1345,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Interactive Voice Station v4 (Unit #105),17237.25,347.37,0.0,7615.86,485,1.31,87.4,3.22,Desplegado / Producción
+REC-1346,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Interactive Voice Station v4 (Unit #106),16897.9,234.3,0.0,6191.17,570,0.91,86.4,2.28,Desplegado / Producción
+REC-1347,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #107),15720.91,291.38,0.0,6640.72,651,0.85,91.2,3.48,Desplegado / Producción
+REC-1348,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #108),16837.11,300.12,0.0,6968.86,639,0.91,89.2,3.2,Desplegado / Producción
+REC-1349,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #109),14150.54,303.93,0.0,6477.32,643,0.84,83.6,1.57,Desplegado / Producción
+REC-1350,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),SmartRoute HD PBX (Unit #110),16403.19,290.13,0.0,6762.16,585,0.96,95.6,2.66,Desplegado / Producción
+REC-1351,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),OmniChannel Telecom Hub (Unit #111),11909.58,258.95,0.0,5489.38,592,0.77,85.9,3.01,Desplegado / Producción
+REC-1352,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #112),13531.19,332.73,0.0,6699.01,515,1.08,88.0,2.66,Desplegado / Producción
+REC-1353,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #113),17740.75,341.31,0.0,7643.85,593,1.07,90.9,2.02,Desplegado / Producción
+REC-1354,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),OmniChannel Telecom Hub (Unit #114),15019.62,260.86,0.0,6134.22,654,0.78,85.5,2.9,Desplegado / Producción
+REC-1355,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Interactive Voice Station v4 (Unit #115),14432.59,299.36,0.0,6478.81,699,0.77,88.4,2.27,Desplegado / Producción
+REC-1356,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Enterprise Voicenet IVR (Unit #116),15254.63,333.85,0.0,7057.07,597,0.99,90.2,2.19,Desplegado / Producción
+REC-1357,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Interactive Voice Station v4 (Unit #117),16266.07,365.18,0.0,7635.37,623,1.02,86.8,2.57,Desplegado / Producción
+REC-1358,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),SmartRoute HD PBX (Unit #118),15268.73,299.53,0.0,6648.05,589,0.94,86.3,3.11,Desplegado / Producción
+REC-1359,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Interactive Voice Station v4 (Unit #119),12088.41,288.22,0.0,5876.29,556,0.88,90.2,2.57,Desplegado / Producción
+REC-1360,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #120),16878.63,321.0,0.0,7227.74,549,1.1,86.4,2.17,Desplegado / Producción
+REC-1361,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #121),17365.66,187.99,0.0,5728.97,575,0.83,89.7,2.91,Desplegado / Producción
+REC-1362,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),OmniChannel Telecom Hub (Unit #122),14624.29,265.99,0.0,6116.74,589,0.87,88.9,2.14,Desplegado / Producción
+REC-1363,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),OmniChannel Telecom Hub (Unit #123),14242.79,317.73,0.0,6661.26,600,0.93,88.4,1.91,Desplegado / Producción
+REC-1364,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),OmniChannel Telecom Hub (Unit #124),15774.55,264.22,0.0,6325.54,561,0.94,87.5,3.04,Desplegado / Producción
+REC-1365,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #125),11237.79,244.6,0.0,5182.74,603,0.72,86.8,2.57,Desplegado / Producción
+REC-1366,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #126),14966.77,286.53,0.0,6431.71,590,0.91,89.4,2.55,Desplegado / Producción
+REC-1367,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),OmniChannel Telecom Hub (Unit #127),14777.0,334.9,0.0,6974.16,608,0.96,87.2,2.32,Desplegado / Producción
+REC-1368,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),AutoCall Server Enterprise (Unit #128),14888.52,361.61,0.0,7317.07,664,0.92,85.3,3.09,Desplegado / Producción
+REC-1369,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Enterprise Voicenet IVR (Unit #129),14019.44,259.4,0.0,5916.68,605,0.81,90.5,2.08,Desplegado / Producción
+REC-1370,Atención al cliente telefónica,Equipo Automatizado (Hardware/Robótica),Enterprise Voicenet IVR (Unit #130),15777.19,315.29,0.0,6938.97,624,0.93,92.1,2.18,Desplegado / Producción
+REC-1371,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),CallMind Pro Speech AI License #501,3095.22,98.71,287.58,7730.74,730,0.53,99.1,0.57,Fase Piloto / Licencia SaaS
+REC-1372,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #502,3528.42,91.11,314.86,8400.14,724,0.56,99.2,0.51,Fase Piloto / Licencia SaaS
+REC-1373,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #503,3131.07,98.04,277.24,7634.36,726,0.52,99.0,0.43,Fase Piloto / Licencia SaaS
+REC-1374,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #504,2994.73,98.48,261.68,7316.58,724,0.5,97.7,0.4,Fase Piloto / Licencia SaaS
+REC-1375,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),OmniAgent Support LLM License #505,3266.51,84.17,231.17,7050.62,719,0.44,97.0,0.48,Fase Piloto / Licencia SaaS
+REC-1376,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),DialAssist AI Agent License #506,2969.07,99.46,268.55,7385.2,722,0.51,98.8,0.69,Fase Piloto / Licencia SaaS
+REC-1377,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceBot CustomerCare 5.0 License #507,2775.22,91.54,342.55,7984.25,725,0.6,100.0,0.53,Fase Piloto / Licencia SaaS
+REC-1378,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),OmniAgent Support LLM License #508,3419.09,82.47,262.36,7557.06,723,0.48,99.0,0.36,Fase Piloto / Licencia SaaS
+REC-1379,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),CallMind Pro Speech AI License #509,3165.47,74.99,267.33,7273.26,710,0.48,98.5,0.31,Fase Piloto / Licencia SaaS
+REC-1380,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceBot CustomerCare 5.0 License #510,2686.32,104.47,263.26,7099.09,710,0.52,97.3,0.29,Fase Piloto / Licencia SaaS
+REC-1381,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #511,3348.16,93.49,234.01,7278.23,728,0.45,96.6,0.39,Fase Piloto / Licencia SaaS
+REC-1382,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),CallMind Pro Speech AI License #512,3110.25,86.49,291.18,7642.3,735,0.51,97.4,0.42,Fase Piloto / Licencia SaaS
+REC-1383,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceBot CustomerCare 5.0 License #513,2684.57,104.22,329.21,7885.67,712,0.61,97.6,0.47,Fase Piloto / Licencia SaaS
+REC-1384,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),CallMind Pro Speech AI License #514,3036.41,131.79,259.51,7732.0,728,0.54,97.9,0.37,Fase Piloto / Licencia SaaS
+REC-1385,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),CallMind Pro Speech AI License #515,3359.34,73.49,311.69,7981.57,703,0.55,97.4,0.57,Fase Piloto / Licencia SaaS
+REC-1386,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),OmniAgent Support LLM License #516,3396.12,80.09,323.19,8235.42,719,0.56,97.0,0.37,Fase Piloto / Licencia SaaS
+REC-1387,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #517,2977.05,84.29,296.27,7543.79,732,0.52,97.1,0.49,Fase Piloto / Licencia SaaS
+REC-1388,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #518,2715.11,110.18,298.63,7620.82,709,0.58,97.2,0.45,Fase Piloto / Licencia SaaS
+REC-1389,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),DialAssist AI Agent License #519,2377.98,78.14,196.98,5679.39,727,0.38,97.3,0.46,Fase Piloto / Licencia SaaS
+REC-1390,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #520,2952.22,86.86,298.83,7580.51,729,0.53,99.6,0.43,Fase Piloto / Licencia SaaS
+REC-1391,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),CallMind Pro Speech AI License #521,2735.32,92.01,289.53,7313.85,714,0.53,95.8,0.42,Fase Piloto / Licencia SaaS
+REC-1392,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #522,3279.92,70.09,266.2,7315.34,704,0.48,97.4,0.17,Fase Piloto / Licencia SaaS
+REC-1393,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),DialAssist AI Agent License #523,3434.18,103.86,238.27,7539.73,716,0.48,98.3,0.42,Fase Piloto / Licencia SaaS
+REC-1394,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #524,3080.69,90.13,234.35,6974.53,713,0.46,97.9,0.34,Fase Piloto / Licencia SaaS
+REC-1395,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),OmniAgent Support LLM License #525,3710.17,94.6,282.67,8237.44,720,0.52,97.7,0.25,Fase Piloto / Licencia SaaS
+REC-1396,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),OmniAgent Support LLM License #526,2524.75,102.88,261.43,6896.47,729,0.5,97.7,0.61,Fase Piloto / Licencia SaaS
+REC-1397,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),OmniAgent Support LLM License #527,3164.87,84.2,279.93,7534.47,724,0.5,99.0,0.41,Fase Piloto / Licencia SaaS
+REC-1398,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceFlow Conversational AI License #528,3490.12,82.7,278.97,7830.13,717,0.5,97.8,0.34,Fase Piloto / Licencia SaaS
+REC-1399,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),OmniAgent Support LLM License #529,3222.02,99.09,271.41,7668.03,716,0.52,98.5,0.25,Fase Piloto / Licencia SaaS
+REC-1400,Atención al cliente telefónica,Inteligencia Artificial (Software/SaaS),VoiceBot CustomerCare 5.0 License #530,2751.78,73.22,251.79,6651.92,714,0.46,100.0,0.25,Fase Piloto / Licencia SaaS
+REC-1401,Conductor de plataforma,Empleado Real (Humano),Julio Flores,372.0,227.18,933.04,14294.61,192,6.04,78.2,2.6,Activo / En Contrato
+REC-1402,Conductor de plataforma,Empleado Real (Humano),Raúl Ruiz,321.07,268.83,1023.21,15825.54,175,7.38,76.5,2.37,Activo / En Contrato
+REC-1403,Conductor de plataforma,Empleado Real (Humano),Saúl Martínez,325.07,279.06,1081.76,16654.91,199,6.84,75.9,3.1,Activo / En Contrato
+REC-1404,Conductor de plataforma,Empleado Real (Humano),Adrian Vargas,308.21,288.28,1071.74,16628.44,208,6.54,80.6,2.75,Activo / En Contrato
+REC-1405,Conductor de plataforma,Empleado Real (Humano),Guillermo Hernández,249.35,170.31,952.07,13717.97,210,5.34,83.3,1.85,Activo / En Contrato
+REC-1406,Conductor de plataforma,Empleado Real (Humano),Hector Ruiz,279.13,195.33,1189.28,16894.5,188,7.36,90.3,2.24,Activo / En Contrato
+REC-1407,Conductor de plataforma,Empleado Real (Humano),Damián González,326.59,271.3,1085.2,16604.53,198,6.85,87.4,1.96,Activo / En Contrato
+REC-1408,Conductor de plataforma,Empleado Real (Humano),Esteban Rodríguez,327.88,302.88,1059.78,16679.82,172,7.92,76.9,2.66,Activo / En Contrato
+REC-1409,Conductor de plataforma,Empleado Real (Humano),Fabián Pérez,306.36,297.98,1116.66,17281.94,181,7.82,80.9,3.07,Activo / En Contrato
+REC-1410,Conductor de plataforma,Empleado Real (Humano),Fidel Gómez,261.34,259.94,940.12,14662.03,196,6.12,86.1,2.91,Activo / En Contrato
+REC-1411,Conductor de plataforma,Empleado Real (Humano),Fabián Pérez,258.54,288.08,1091.24,16810.45,204,6.76,87.6,2.68,Activo / En Contrato
+REC-1412,Conductor de plataforma,Empleado Real (Humano),Hugo Cruz,275.66,289.5,1036.72,16190.33,191,6.94,83.8,2.47,Activo / En Contrato
+REC-1413,Conductor de plataforma,Empleado Real (Humano),Saúl Díaz,304.96,267.95,1136.8,17161.89,183,7.68,79.5,2.22,Activo / En Contrato
+REC-1414,Conductor de plataforma,Empleado Real (Humano),Guillermo Castillo,332.89,304.28,964.81,15561.96,185,6.86,91.5,1.91,Activo / En Contrato
+REC-1415,Conductor de plataforma,Empleado Real (Humano),Ariel Álvarez,303.86,253.67,982.86,15142.13,194,6.37,80.0,1.23,Activo / En Contrato
+REC-1416,Conductor de plataforma,Empleado Real (Humano),Erick Vargas,304.24,292.98,1110.01,17140.03,171,8.2,92.8,2.07,Activo / En Contrato
+REC-1417,Conductor de plataforma,Empleado Real (Humano),Guillermo Gómez,313.89,250.22,1036.93,15759.69,211,6.1,82.2,3.4,Activo / En Contrato
+REC-1418,Conductor de plataforma,Empleado Real (Humano),Ariel Cruz,296.84,335.33,953.13,15758.37,181,7.12,89.7,1.53,Activo / En Contrato
+REC-1419,Conductor de plataforma,Empleado Real (Humano),Alexis Romero,329.9,219.18,1135.88,16590.63,198,6.84,83.8,3.09,Activo / En Contrato
+REC-1420,Conductor de plataforma,Empleado Real (Humano),Damián Gómez,278.94,274.73,1039.36,16048.01,171,7.68,86.6,1.77,Activo / En Contrato
+REC-1421,Conductor de plataforma,Empleado Real (Humano),Erick Hernández,282.72,290.22,1229.22,18516.05,197,7.71,80.5,3.89,Activo / En Contrato
+REC-1422,Conductor de plataforma,Empleado Real (Humano),Renato Sánchez,353.93,236.97,1190.94,17488.9,209,6.83,87.1,2.26,Activo / En Contrato
+REC-1423,Conductor de plataforma,Empleado Real (Humano),Orlando Castillo,226.89,255.24,1238.84,18155.83,178,8.39,78.6,1.82,Activo / En Contrato
+REC-1424,Conductor de plataforma,Empleado Real (Humano),Hugo Cruz,293.37,219.12,996.87,14885.24,213,5.71,76.2,1.74,Activo / En Contrato
+REC-1425,Conductor de plataforma,Empleado Real (Humano),Alexis Romero,302.83,209.84,1169.1,16850.09,184,7.49,81.3,1.39,Activo / En Contrato
+REC-1426,Conductor de plataforma,Empleado Real (Humano),Fabián Romero,252.73,197.34,1056.07,15293.71,196,6.39,85.4,1.9,Activo / En Contrato
+REC-1427,Conductor de plataforma,Empleado Real (Humano),Julio Morales,241.22,184.19,846.97,12615.2,181,5.7,76.5,2.12,Activo / En Contrato
+REC-1428,Conductor de plataforma,Empleado Real (Humano),Esteban Gómez,371.95,184.14,1106.37,15858.13,203,6.36,83.3,2.31,Activo / En Contrato
+REC-1429,Conductor de plataforma,Empleado Real (Humano),Raúl López,260.17,279.2,1036.99,16054.46,216,6.09,74.9,2.38,Activo / En Contrato
+REC-1430,Conductor de plataforma,Empleado Real (Humano),Ariel Vargas,350.6,291.25,1144.65,17581.47,201,7.14,80.6,1.81,Activo / En Contrato
+REC-1431,Conductor de plataforma,Empleado Real (Humano),Renato Pérez,272.79,188.4,974.9,14232.34,186,6.25,73.8,2.7,Activo / En Contrato
+REC-1432,Conductor de plataforma,Empleado Real (Humano),Julio Pérez,284.82,244.76,919.34,14254.03,178,6.54,87.9,2.93,Activo / En Contrato
+REC-1433,Conductor de plataforma,Empleado Real (Humano),Raúl Rodríguez,284.53,190.47,1105.25,15833.18,210,6.17,73.9,2.62,Activo / En Contrato
+REC-1434,Conductor de plataforma,Empleado Real (Humano),Guillermo Pérez,302.26,233.06,916.96,14102.47,182,6.32,93.8,1.92,Activo / En Contrato
+REC-1435,Conductor de plataforma,Empleado Real (Humano),Orlando Morales,326.16,281.23,989.07,15569.87,181,7.02,86.1,2.28,Activo / En Contrato
+REC-1436,Conductor de plataforma,Empleado Real (Humano),Ariel Mendoza,342.81,213.24,1127.54,16432.15,186,7.21,83.8,2.99,Activo / En Contrato
+REC-1437,Conductor de plataforma,Empleado Real (Humano),Damián Díaz,318.87,269.95,1052.52,16188.49,177,7.47,88.2,2.71,Activo / En Contrato
+REC-1438,Conductor de plataforma,Empleado Real (Humano),Julio Reyes,341.6,251.37,851.07,13570.86,183,6.02,80.2,2.97,Activo / En Contrato
+REC-1439,Conductor de plataforma,Empleado Real (Humano),Erick López,289.55,214.26,1190.06,17141.41,158,8.89,81.1,3.27,Activo / En Contrato
+REC-1440,Conductor de plataforma,Empleado Real (Humano),Saúl Reyes,232.52,240.03,1038.52,15575.04,200,6.39,96.3,2.61,Activo / En Contrato
+REC-1441,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),RoboTaxi Alpha (L4) (Unit #101),59112.99,1210.24,0.0,26345.48,529,4.15,98.6,0.57,Desplegado / Producción
+REC-1442,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),Waybot-Delivery Pod (Unit #102),60487.87,1163.06,0.0,26054.31,486,4.47,94.0,0.42,Desplegado / Producción
+REC-1443,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #103),70124.58,1003.91,0.0,26071.78,477,4.55,95.1,1.0,Desplegado / Producción
+REC-1444,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),UrbanNav Shuttle AI (Unit #104),72003.15,1273.84,0.0,29686.67,524,4.72,94.2,0.8,Desplegado / Producción
+REC-1445,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),DriveBot Autonomous Car (Unit #105),61711.74,1230.47,0.0,27108.0,477,4.74,96.0,0.76,Desplegado / Producción
+REC-1446,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #106),60349.81,1236.43,0.0,26907.13,444,5.05,94.6,0.78,Desplegado / Producción
+REC-1447,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),UrbanNav Shuttle AI (Unit #107),68053.46,1226.7,0.0,28331.13,471,5.01,94.7,0.96,Desplegado / Producción
+REC-1448,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),UrbanNav Shuttle AI (Unit #108),71375.73,1193.04,0.0,28591.61,505,4.72,91.9,0.91,Desplegado / Producción
+REC-1449,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),DriveBot Autonomous Car (Unit #109),69977.22,1134.86,0.0,27613.8,499,4.61,94.5,0.58,Desplegado / Producción
+REC-1450,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),Waybot-Delivery Pod (Unit #110),62204.44,1133.72,0.0,26045.57,513,4.23,92.6,0.73,Desplegado / Producción
+REC-1451,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),RoboTaxi Alpha (L4) (Unit #111),72193.02,1107.73,0.0,27731.39,467,4.95,95.1,1.07,Desplegado / Producción
+REC-1452,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),UrbanNav Shuttle AI (Unit #112),72669.04,896.19,0.0,25288.1,496,4.25,91.7,0.89,Desplegado / Producción
+REC-1453,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),Waybot-Delivery Pod (Unit #113),68236.87,1257.59,0.0,28738.48,479,5.0,97.3,0.87,Desplegado / Producción
+REC-1454,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #114),65625.59,834.21,0.0,23135.58,549,3.51,97.0,0.91,Desplegado / Producción
+REC-1455,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #115),57405.17,1013.16,0.0,23639.01,466,4.23,95.0,1.05,Desplegado / Producción
+REC-1456,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),UrbanNav Shuttle AI (Unit #116),74581.41,1226.22,0.0,29630.94,477,5.18,95.9,0.56,Desplegado / Producción
+REC-1457,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),RoboTaxi Alpha (L4) (Unit #117),67606.18,1299.9,0.0,29119.98,499,4.86,95.7,0.86,Desplegado / Producción
+REC-1458,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #118),59693.39,1233.99,0.0,26746.54,460,4.85,96.5,0.64,Desplegado / Producción
+REC-1459,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),DriveBot Autonomous Car (Unit #119),72042.47,1204.62,0.0,28863.91,566,4.25,95.3,1.06,Desplegado / Producción
+REC-1460,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #120),58044.88,1189.94,0.0,25888.2,484,4.46,95.2,0.85,Desplegado / Producción
+REC-1461,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),RoboTaxi Alpha (L4) (Unit #121),71974.7,1057.1,0.0,27080.12,479,4.71,98.4,0.89,Desplegado / Producción
+REC-1462,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #122),63057.01,1024.82,0.0,24909.19,482,4.31,95.3,1.06,Desplegado / Producción
+REC-1463,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),UrbanNav Shuttle AI (Unit #123),62632.03,1306.89,0.0,28209.13,533,4.41,92.5,0.98,Desplegado / Producción
+REC-1464,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),UrbanNav Shuttle AI (Unit #124),68559.28,1114.95,0.0,27091.31,466,4.84,94.9,0.46,Desplegado / Producción
+REC-1465,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #125),61602.03,1103.61,0.0,25563.77,486,4.38,92.8,1.02,Desplegado / Producción
+REC-1466,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),DriveBot Autonomous Car (Unit #126),72111.42,862.84,0.0,24776.39,476,4.34,96.2,0.49,Desplegado / Producción
+REC-1467,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),DriveBot Autonomous Car (Unit #127),73841.16,1108.23,0.0,28067.03,512,4.57,98.0,0.79,Desplegado / Producción
+REC-1468,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #128),59637.56,995.09,0.0,23868.63,503,3.95,92.7,0.88,Desplegado / Producción
+REC-1469,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),AutoCruiser Pod v2 (Unit #129),66879.75,1114.05,0.0,26744.53,536,4.16,95.7,0.58,Desplegado / Producción
+REC-1470,Conductor de plataforma,Equipo Automatizado (Hardware/Robótica),Waybot-Delivery Pod (Unit #130),62511.15,1050.33,0.0,25106.2,512,4.09,93.0,0.55,Desplegado / Producción
+REC-1471,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #501,4949.1,115.78,370.67,10786.46,641,0.76,96.0,0.54,Fase Piloto / Licencia SaaS
+REC-1472,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #502,3860.52,102.11,279.85,8444.06,672,0.57,96.7,0.38,Fase Piloto / Licencia SaaS
+REC-1473,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),AutonomousPilot SaaS License #503,4379.23,104.12,401.04,10441.12,642,0.79,96.9,0.53,Fase Piloto / Licencia SaaS
+REC-1474,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),Autodrive Pro Platform License #504,3952.53,106.06,415.81,10214.93,668,0.78,95.8,0.54,Fase Piloto / Licencia SaaS
+REC-1475,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #505,4146.77,85.37,421.62,10230.67,672,0.75,97.6,0.44,Fase Piloto / Licencia SaaS
+REC-1476,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #506,4295.33,114.44,406.71,10549.17,671,0.78,97.1,0.55,Fase Piloto / Licencia SaaS
+REC-1477,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #507,3093.26,102.79,372.77,8799.95,649,0.73,99.2,0.69,Fase Piloto / Licencia SaaS
+REC-1478,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),Autodrive Pro Platform License #508,4445.53,93.99,391.68,10273.62,659,0.74,97.1,0.54,Fase Piloto / Licencia SaaS
+REC-1479,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),Autodrive Pro Platform License #509,4503.45,122.84,368.23,10396.38,673,0.73,98.7,0.44,Fase Piloto / Licencia SaaS
+REC-1480,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),NavigAItor v3 CoPilot License #510,4062.32,107.8,377.45,9885.31,632,0.77,96.0,0.46,Fase Piloto / Licencia SaaS
+REC-1481,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),NavigAItor v3 CoPilot License #511,2753.29,118.07,312.95,7925.62,614,0.7,95.2,0.59,Fase Piloto / Licencia SaaS
+REC-1482,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),NavigAItor v3 CoPilot License #512,4358.56,87.18,400.57,10211.56,639,0.76,96.4,0.44,Fase Piloto / Licencia SaaS
+REC-1483,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),AutonomousPilot SaaS License #513,3271.6,105.23,359.05,8843.04,679,0.68,95.5,0.57,Fase Piloto / Licencia SaaS
+REC-1484,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),Autodrive Pro Platform License #514,4089.72,126.22,291.95,9107.78,693,0.6,96.9,0.62,Fase Piloto / Licencia SaaS
+REC-1485,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),Autodrive Pro Platform License #515,4369.61,99.84,340.3,9651.22,667,0.66,96.7,0.57,Fase Piloto / Licencia SaaS
+REC-1486,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),Autodrive Pro Platform License #516,4045.1,125.63,376.02,10064.97,655,0.77,97.7,0.46,Fase Piloto / Licencia SaaS
+REC-1487,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #517,3711.36,90.54,284.95,8217.24,624,0.6,96.6,0.47,Fase Piloto / Licencia SaaS
+REC-1488,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),AutonomousPilot SaaS License #518,4174.97,124.67,377.77,10204.32,627,0.8,97.9,0.57,Fase Piloto / Licencia SaaS
+REC-1489,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #519,3159.22,97.94,393.23,9053.33,644,0.76,97.4,0.43,Fase Piloto / Licencia SaaS
+REC-1490,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #520,4999.61,98.49,326.59,10100.49,649,0.65,96.9,0.66,Fase Piloto / Licencia SaaS
+REC-1491,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),AutonomousPilot SaaS License #521,4455.7,125.66,347.18,10129.7,687,0.69,98.0,0.66,Fase Piloto / Licencia SaaS
+REC-1492,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),Autodrive Pro Platform License #522,4025.76,122.17,353.23,9730.59,629,0.76,97.6,0.42,Fase Piloto / Licencia SaaS
+REC-1493,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #523,4005.44,116.2,382.94,9995.06,652,0.77,97.8,0.61,Fase Piloto / Licencia SaaS
+REC-1494,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),NavigAItor v3 CoPilot License #524,3944.25,108.44,344.55,9380.16,669,0.68,96.6,0.41,Fase Piloto / Licencia SaaS
+REC-1495,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),AutonomousPilot SaaS License #525,4348.38,118.0,240.51,8650.42,666,0.54,97.3,0.65,Fase Piloto / Licencia SaaS
+REC-1496,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),AutonomousPilot SaaS License #526,4288.34,134.83,350.44,10111.5,650,0.75,96.8,0.54,Fase Piloto / Licencia SaaS
+REC-1497,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),UrbanDrive AI Navigator License #527,3968.25,107.1,337.03,9297.76,645,0.69,97.9,0.58,Fase Piloto / Licencia SaaS
+REC-1498,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),Autodrive Pro Platform License #528,3756.92,78.69,322.13,8566.75,666,0.6,98.7,0.45,Fase Piloto / Licencia SaaS
+REC-1499,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #529,3688.66,124.09,326.02,9090.04,628,0.72,95.7,0.42,Fase Piloto / Licencia SaaS
+REC-1500,Conductor de plataforma,Inteligencia Artificial (Software/SaaS),FleetAI Route Optimizer License #530,4620.42,94.04,374.87,10247.43,630,0.74,97.6,0.49,Fase Piloto / Licencia SaaS
