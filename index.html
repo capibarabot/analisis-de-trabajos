@@ -5,6 +5,40 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Impacto de la IA en futuros empleos - </title>
     <style>
+        /* Vídeo a pantalla completa detrás del contenido */
+         #bg-video {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;        
+        z-index: -1;               
+                    }
+
+        /* Botón flotante personalizado */
+        #toggle-video {
+        position: fixed;
+        bottom: 25px;
+        right: 25px;
+        z-index: 999;
+        background: rgba(0, 0, 0, 0.55);
+        color: white;
+        border: none;
+        border-radius: 50%;
+        width: 48px;
+        height: 48px;
+        font-size: 20px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        backdrop-filter: blur(4px);
+        transition: background 0.3s;
+        }
+        #toggle-video:hover {
+        background: rgba(0, 0, 0, 0.8);
+        }
         * {
             box-sizing: border-box;
         }
@@ -145,7 +179,13 @@
     </style>
 </head>
 <body>
+    <!-- Vídeo de fondo -->
+<video id="bg-video" autoplay loop muted playsinline>
+    <source src="video/gameplay.mp4" type="video/mp4">
+</video>
 
+<!-- Botón pausa/reproducir -->
+<button id="toggle-video" title="Pausar / Reproducir">❚❚</button>
     <div class="contenedor">
         <!-- Encabezado centrado -->
         <div class="encabezado">
